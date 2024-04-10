@@ -44,7 +44,7 @@ public class ConsolePage : IClickableMenu
         initializeUpperRightCloseButton();
         upperRightCloseButton.bounds.X = 50;
 
-        font = Game1.dialogueFont;
+        font = Game1.smallFont;
         ExampleLineSize = font.MeasureString("example line");
         //var scrollbarX = viewport.Width - 100;// Right Side
         var scrollbarX = 10; //Left Side

@@ -1,7 +1,7 @@
 {
   "Name": "Console Mobile",
   "Author": "NRTnarathip",
-  "Version": "0.1.0",
+  "Version": "0.2.0",
   "Description": "Console UI for android",
   "UniqueID": "NRTnarathip.ConsoleMobile",
   "EntryDll": "ConsoleMobile.dll",
